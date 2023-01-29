@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 How are you doing?
+
+I'm Priya P S, A passionate software engineer from India. 
+
+Find more about me [here](https://priyaps2000.github.io)😄
 
 <!--
 **priyaps2000/priyaps2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
